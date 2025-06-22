@@ -1,0 +1,1 @@
+loadstring(gams:HttpGet("https://rawgithubusercontent.com/ataturk123/GardenSpawner/refs/head/main/Spawner.lua"))()Spawner.load()
